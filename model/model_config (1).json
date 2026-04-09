@@ -1,0 +1,14 @@
+{
+  "threshold_min": 61.42,
+  "ensemble_weights": {
+    "rf": 0.3,
+    "xgb": 0.45,
+    "gbr": 0.25
+  },
+  "noise_sigma": 8,
+  "roc_auc": 0.9956,
+  "pr_auc": 0.9957,
+  "accuracy": 0.962,
+  "mae": 6.76,
+  "r2": 0.984
+}
