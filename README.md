@@ -1,6 +1,10 @@
 # 🏥 Emergency Room Wait Time Predictor
 
+<<<<<<< HEAD
 A full-stack ML web app that predicts ER wait times using a trained **Ensemble Model (Random Forest + XGBoost + Gradient Boosting)** with ROC-AUC 0.9956 and R² 0.984.
+=======
+A full-stack ML web app that predicts ER wait times using a trained **Random Forest Classifier**.
+>>>>>>> 8b3e3d992bf1e0212d70afe2fd599366bdc77fa7
 
 ---
 
@@ -130,6 +134,11 @@ Returns model load status.
 
 ## ML Model Details
 
+<<<<<<< HEAD
+=======
+Datase : https://www.kaggle.com/datasets/xavierberge/hospital-emergency-dataset
+
+>>>>>>> 8b3e3d992bf1e0212d70afe2fd599366bdc77fa7
 | Property | Value |
 |----------|-------|
 | Model type | `RandomForestClassifier` (scikit-learn 1.6.1) |

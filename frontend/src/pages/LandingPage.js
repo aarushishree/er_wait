@@ -98,12 +98,16 @@ const LandingPage = () => {
         </div>
 
         {/* Footer note */}
+<<<<<<< HEAD
         <p
           className="text-center text-xs text-slate-400 dark:text-slate-600 mt-16"
           style={{ fontFamily: "'Manrope', sans-serif" }}
         >
           For educational purposes only. Not a substitute for professional medical advice.
         </p>
+=======
+        
+>>>>>>> 8b3e3d992bf1e0212d70afe2fd599366bdc77fa7
       </div>
     </div>
   );

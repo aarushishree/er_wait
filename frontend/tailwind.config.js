@@ -9,6 +9,7 @@ module.exports = {
         md: "calc(var(--radius) - 2px)",
         sm: "calc(var(--radius) - 4px)",
       },
+<<<<<<< HEAD
       colors: {
         background: "hsl(var(--background))",
         foreground: "hsl(var(--foreground))",
@@ -44,6 +45,9 @@ module.exports = {
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
       },
+=======
+      colors: {},
+>>>>>>> 8b3e3d992bf1e0212d70afe2fd599366bdc77fa7
     },
   },
   plugins: [require("tailwindcss-animate")],
